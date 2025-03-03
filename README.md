@@ -17,8 +17,8 @@ FitBuddy is an AI-powered chatbot designed to provide personalized fitness assis
 ## Overview
 
 FitBuddy leverages the power of modern natural language processing models to understand and respond to user queries related to fitness. It utilizes:
-- **BERT** for intent classification.
-- **GPT-2** for generating contextually relevant responses.
+- **BERT** for intent classification.(Model link -> https://www.kaggle.com/models/sankeerthnadu/bert-intent-model/Transformers/default/1 )
+- **GPT-2** for generating contextually relevant responses.(Model link -> https://www.kaggle.com/models/sankeerthnadu/gpt-2-transformer-based-model/Transformers/default/1 )
 
 This combination allows FitBuddy to not only interpret a wide range of fitness-related queries but also deliver responses that are coherent, relevant, and personalized.
 
