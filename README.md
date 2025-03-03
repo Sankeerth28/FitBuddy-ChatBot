@@ -1,4 +1,4 @@
-# FitBuddy
+# FitBuddy --> Link: ( https://rb.gy/wmwjjb )
 
 FitBuddy is an AI-powered chatbot designed to provide personalized fitness assistance. By combining BERT-based intent classification with GPT-2 response generation, FitBuddy delivers tailored fitness advice and enhances user engagement.
 
